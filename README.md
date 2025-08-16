@@ -16,6 +16,6 @@
 Конфигурация:
 ![Скриншот 1](https://github.com/user-attachments/assets/4c50b17f-fb42-4217-8342-38cd454ab907)
 
-состояния и режимы серверов::
+состояния и режимы серверов:
 ![Скриншот 2](https://github.com/user-attachments/assets/b74cc341-1e7f-44e4-9182-dc91ef1b194a)
 ---
