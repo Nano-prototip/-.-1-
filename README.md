@@ -18,6 +18,6 @@
 
 
 состояния и режимы серверов::
-![Скриншот 2](![част1_2](https://github.com/user-attachments/assets/df96e934-4f66-4f68-baf1-6187774652c0)
+![Скриншот 2]((https://github.com/user-attachments/assets/df96e934-4f66-4f68-baf1-6187774652c0)
 ---
  
