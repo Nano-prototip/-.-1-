@@ -14,10 +14,8 @@
 
 ### Ответ:
 Конфигурация:
-![Скриншот 1](част1_1](https://github.com/user-attachments/assets/02d99ec4-c3ff-486d-a2bd-6bd37bee886c).
-
+![Скриншот 1](https://github.com/user-attachments/assets/4c50b17f-fb42-4217-8342-38cd454ab907)
 
 состояния и режимы серверов::
-![Скриншот 2]((https://github.com/user-attachments/assets/df96e934-4f66-4f68-baf1-6187774652c0)
+![Скриншот 2](https://github.com/user-attachments/assets/b74cc341-1e7f-44e4-9182-dc91ef1b194a)
 ---
- 
